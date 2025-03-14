@@ -32,8 +32,8 @@ npm start  # ou yarn start
 ```
 
 ## 📬 Me contacter
-📧 Email : aarjipro@gmail.com
-💻 GitHub : @aarjinho
-🔗 LinkedIn : Yahya Aarji
+📧 **Email** : aarjipro@gmail.com
+💻 **GitHub** : https://github.com/aarjinho
+🔗 **LinkedIn** : https://www.linkedin.com/in/yahya-aarji-928381237/
 
 💡 Feedback & Suggestions : N'hésitez pas à ouvrir une issue ou à me contacter pour toute suggestion d'amélioration !
