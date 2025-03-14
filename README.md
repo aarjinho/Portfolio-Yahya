@@ -29,9 +29,9 @@ npm install  # ou yarn install
 
 # Lancer le serveur en mode développement
 npm start  # ou yarn start
+```
 
-
-📬 # Me contacter
+## 📬 Me contacter
 📧 Email : aarjipro@gmail.com
 💻 GitHub : @aarjinho
 🔗 LinkedIn : Yahya Aarji
