@@ -149,9 +149,7 @@ b{
   .skills{
     margin: 50px 5% !important;
   }
-  .timeline-item::before{
-    display: none;
-  }
+
   .Navbar{
     width: 100%;
   }
@@ -647,8 +645,13 @@ html {
 
 /* Responsivité */
 @media (max-width: 768px) {
-  .timeline-item::before {
-    display: none;
+  .contact-container{
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+    height: 100%; 
   }
 
   .sectionTitle {
@@ -756,14 +759,8 @@ html {
   position: relative;
 }
 
-.timeline-item::before {
-  content: "";
-  position: absolute;
-  left: 12px;
-  top: 0;
-  width: 2px;
-  height: 100%;
-  background: #fff;
+.timeline-item::before{
+  display: none;
 }
 
 /* Icônes avec logos */
@@ -888,15 +885,6 @@ html {
   position: relative;
 }
 
-.timeline-item::before {
-  content: "";
-  position: absolute;
-  left: 12px;
-  top: 0;
-  width: 2px;
-  height: 100%;
-  background: #fff;
-}
 
 /* Icônes avec logos */
 .timeline-icon {
