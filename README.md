@@ -1,4 +1,4 @@
-# 🚀 Portfolio de YAHYA AARJI – Développeur React  
+# 🚀 Portfolio de YAHYA AARJI – Développeur Full stack 
 
 Bienvenue sur mon **portfolio personnel**, un site interactif mettant en avant mon expertise en **développement web**, notamment avec **React.js**. Vous y trouverez mes **projets**, mes **compétences**, ainsi que mon **expérience professionnelle**.  
 
