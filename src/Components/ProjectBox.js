@@ -16,13 +16,14 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
   
     
       SaveItDesc: "SaveIt is a 3D browser-based game developed using Babylon.js to raise awareness about waste sorting and environmental sustainability. Players control a character who must collect and correctly sort waste while avoiding obstacles. The game features different graphical settings, multiple game modes including 'Endless' and 'Levels', and progressively increasing difficulty. It also utilizes JSON-based level generation, modular code structure, and dynamic terrain rendering to enhance gameplay and maintain performance.",
-      SaveItGithub: "https://github.com/AyoubAdm/SaveIt"
+      SaveItGithub: "https://github.com/AyoubAdm/SaveIt",
     
-    
+      ThornamentDesc: "Thornament is a web platform that allows users to create and join fully customizable e-sports tournaments for a variety of video games. The tournament system automates match management, updating brackets dynamically based on players' reported results. Features include user authentication, public and private tournaments, solo and team participation, and administrative controls for tournament organizers. Built with React for the frontend and Firebase with Express for backend services, Thornament provides a seamless competitive experience.",
+        
   }
 
   let show ='';
-  if(desc[projectName + 'Github']===""){
+  if(!desc[projectName + 'Github']?.includes("https")){
     show="none";
   }
     

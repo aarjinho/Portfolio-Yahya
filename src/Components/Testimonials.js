@@ -27,7 +27,7 @@ const Testimonials = () => {
     <div className="testimonials-container">
       <div className="header-box">
         <p className="sub-title">What others say</p>
-        <h2 className="main-title">Testimonials.</h2>
+        <h2 className="main-title">Testimonials</h2>
       </div>
 
       <div className="testimonials-grid">

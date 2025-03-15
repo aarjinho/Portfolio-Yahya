@@ -61,13 +61,13 @@ const Nav = () => {
            <Link to="work" smooth={true} duration={500}>Work</Link>
          </li>
          <li>
-           <Link to="projects" smooth={true} duration={500}>Projects</Link>
-         </li>
-         <li>
           <Link to="academic" smooth={true} duration={500}>Study</Link>
          </li>
          <li>
-           <Link to="contact" smooth={true} duration={500}>Resume</Link>
+           <Link to="projects" smooth={true} duration={500}>Projects</Link>
+          </li>
+          <li>
+          <Link to="resume" smooth={true} duration={500}>Resume</Link>
          </li>
        </ul>
         
