@@ -23,9 +23,7 @@
     "typewriter-effect": "^2.20.1",
     "web-vitals": "^2.1.4",
     "workbox-cacheable-response": "^7.3.0",
-    "workbox-google-analytics": "^7.3.0",
-    "yocto-queue": "^1.2.0"
-  },
+    "workbox-google-analytics": "^7.3.0"  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
