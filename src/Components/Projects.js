@@ -15,7 +15,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={SaveIt} projectName="SaveIt" />
         <ProjectBox projectPhoto={Thornament} projectName="Thornament" />
         <ProjectBox projectPhoto={BabyloneImage} projectName="BabylonCarShooter" />
-        <ProjectBox projectPhoto={DotNetImage} projectName="DotNet" />
+        <ProjectBox projectPhoto={DotNetImage} projectName="BiblioTech" />
         <ProjectBox projectPhoto={ReactImage} projectName="SignatureChecker" />
       </div>
 

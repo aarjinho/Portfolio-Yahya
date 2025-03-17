@@ -5,8 +5,8 @@ import {CgFileDocument} from "react-icons/cg";
 
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
-      DotNetDesc: "TP.NET is a project designed to build a web service along with a Windows client application for managing and accessing a digital book library. The project includes an ASP.NET Core-based server for book storage and management and a WPF-based Windows application for browsing and reading books. It features an admin interface, a REST API, and functionalities like book filtering, author management, and OpenLibrary integration. The client-server communication is managed through OpenAPI, and additional enhancements include pagination, speech synthesis for book reading, and dynamic plugin support.",
-      DotNetGithub: "https://github.com/aarjinho/TP.NET",
+      BiblioTechDesc: "BiblioTech is a project designed to build a web service along with a Windows client application for managing and accessing a digital book library. The project includes an ASP.NET Core-based server for book storage and management and a WPF-based Windows application for browsing and reading books. It features an admin interface, a REST API, and functionalities like book filtering, author management, and OpenLibrary integration. The client-server communication is managed through OpenAPI, and additional enhancements include pagination, speech synthesis for book reading, and dynamic plugin support.",
+      BiblioTechGithub: "https://github.com/aarjinho/TP.NET",
   
       SignatureCheckerDesc: "SignatureChecker-Website is a web application built using React that helps users verify digital signatures. The project was initialized with Create React App and includes functionalities for checking, validating, and displaying signature authenticity. It is designed for ease of use and provides an interactive interface for users to upload and analyze signatures. The app can be run in development mode for testing and debugging, and it includes a production build setup for deployment.",
       SignatureCheckerGithub: "https://github.com/aarjinho/SignatureChecker-Website",
