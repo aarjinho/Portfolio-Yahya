@@ -26,7 +26,7 @@ const Home = () => {
         </Reveal>
 
         <Reveal>
-          <img src={Me} alt='Me' className='me' /> 
+          <img src={Me} className='me' /> 
         </Reveal>
       </div>
 
