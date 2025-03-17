@@ -11,6 +11,7 @@ import { Reveal } from './Reveal.tsx'; // Import du composant Reveal
 import Contact from './Contact.js';
 import Academic from './Academic.js';
 import Testimonials from './Testimonials.js';
+import Me from '../images/me.png';
 
 const Home = () => {
   return (
@@ -24,11 +25,9 @@ const Home = () => {
           </div>
         </Reveal>
 
-        <Lottie
-          className="illustration"
-          animationData={SpaceBoy}
-          loop={true}
-        />
+        <Reveal>
+          <img src={Me} alt='Me' className='me' /> 
+        </Reveal>
       </div>
 
       <div id="about" className="AboutPage">

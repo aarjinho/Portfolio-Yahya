@@ -24,7 +24,7 @@ const workExperience = [
       "Automated and improved deployment reliability using Jenkins and GitLab, reducing manual errors and accelerating production deployment cycles."
     ],
     
-    technologies: "AngularJS, Spring Boot, Java, JavaScript, Maven, Jenkins, GitLab, Postman, MySQL, PostgreSQL, IBM DB2, Méthodologie Agile, AppDynamics, Kibana"
+    technologies: "AngularJS, Spring Boot, Java, JavaScript, Maven, Jenkins, GitLab, Postman, MySQL, PostgreSQL, IBM DB2, Méthodologie Agile, AppDynamics, Confluence ,Kanban, Kibana"
   },
   {
     title: "Freelance Developer (Fiverr)",
