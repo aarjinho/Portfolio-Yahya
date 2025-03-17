@@ -21,7 +21,8 @@ const workExperience = [
       "Optimized advanced searches in the 'Suivi Flux' application by implementing dynamic filters in AngularJS and improving navigation, reducing response and query times by 50% and increasing user productivity.",
       "Enhanced sensitive data security by developing a feature to anonymize sensitive fields in the user interface, ensuring compliance with data protection regulations.",
       "Developed a data extraction batch using Spring Boot with parallel processing, increasing data extraction speed by 30% for feeding a data warehouse.",
-      "Automated and improved deployment reliability using Jenkins and GitLab, reducing manual errors and accelerating production deployment cycles."
+      "Automated and improved deployment reliability using Jenkins and GitLab, reducing manual errors and accelerating production deployment cycles.",
+      "Participation aux réunions de sprint (daily stand-up, sprint planning, review, rétrospective) avec suivi des tâches via Jira et documentation sur Confluence."
     ],
     
     technologies: "AngularJS, Spring Boot, Java, JavaScript, Maven, Jenkins, GitLab, Postman, MySQL, PostgreSQL, IBM DB2, Méthodologie Agile, AppDynamics, Confluence ,Kanban, Kibana"
