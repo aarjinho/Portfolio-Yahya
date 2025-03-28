@@ -15,7 +15,7 @@ const testimonials = [
   },
   {
     quote:
-      "I valued working with Ibrahim on numerous computer science projects; his creativity, intelligence, and drive significantly improved our debugging and problem-solving efforts.",
+      "I valued working with Yahya on numerous computer science projects; his creativity, intelligence, and drive significantly improved our debugging and problem-solving efforts.",
     name: "Mathieu BERGER",
     title: "Software Engineer at PROBTP",
   },
