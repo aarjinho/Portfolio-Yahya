@@ -3,7 +3,7 @@ import React from "react";
 const testimonials = [
   {
     quote:
-      "The internship went incredibly well, exceeding our expectations, prompting us to seriously consider bringing Ibrahim on board as an apprentice.",
+      "The internship went incredibly well, exceeding our expectations, prompting us to seriously consider bringing Yahya on board as an apprentice.",
     name: "Matthieu CONSTANT",
     title: "IT Project Manager at PROBTP",
   },
